@@ -1,0 +1,59 @@
+Write a program to execute the datas with the statement.
+
+Input Format
+
+first input corresponds to integer
+second input corresponds to float
+third input corresponds to char
+fourth input correspond to string
+fifth input correspond to String
+Constraints
+
+No Constraints
+
+Output Format
+
+execute the user inputs with the statemets
+Sample Input 0
+
+23
+45.56
+A
+hello
+hello world
+Sample Output 0
+
+Integer is 23
+Float is 45.56
+Character is A
+Strings are hello and hello world
+Contest ends in 6 days
+Submissions: 110
+Max Score: 10
+Difficulty: Medium
+Rate This Challenge:
+
+    
+More
+
+
+
+ANSWER
+
+
+3
+i=int(input())
+4
+f=float(input())
+5
+c=input()
+6
+s1,s2=input(),input()
+7
+print("Integer is",i)
+8
+print("Float is",f)
+9
+print("Character is",c)
+10
+print(f"Strings are {s1} and {s2}")
