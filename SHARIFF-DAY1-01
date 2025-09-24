@@ -23,7 +23,6 @@ welcome to c programming language
 
 
 ANSWER
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+
 a=input()
 print(a)
